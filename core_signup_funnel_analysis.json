@@ -1,0 +1,357 @@
+{
+  "generated_at": "2025-06-26T18:48:37.662687",
+  "analysis_type": "core_signup_funnel_analysis",
+  "summary": {
+    "total_sources": 49,
+    "total_signups": 560,
+    "top_signup_source": "google / cpc",
+    "highest_conversion_source": "blog / posts739_2025foodoneclick"
+  },
+  "detailed_analysis": {
+    "core_funnel_analysis": [
+      {
+        "source_medium": "google / cpc",
+        "all_visitors": 1256,
+        "signup_users": 153,
+        "conversion_rate": 12.2,
+        "contribution": 27.3
+      },
+      {
+        "source_medium": "(direct) / (none)",
+        "all_visitors": 1990,
+        "signup_users": 98,
+        "conversion_rate": 4.9,
+        "contribution": 17.5
+      },
+      {
+        "source_medium": "naver / organic",
+        "all_visitors": 1485,
+        "signup_users": 56,
+        "conversion_rate": 3.8,
+        "contribution": 10.0
+      },
+      {
+        "source_medium": "conv / FBIG",
+        "all_visitors": 353,
+        "signup_users": 43,
+        "conversion_rate": 12.2,
+        "contribution": 7.7
+      },
+      {
+        "source_medium": "google / organic",
+        "all_visitors": 571,
+        "signup_users": 36,
+        "conversion_rate": 6.3,
+        "contribution": 6.4
+      },
+      {
+        "source_medium": "bflow22218.imweb.me / referral",
+        "all_visitors": 38,
+        "signup_users": 20,
+        "conversion_rate": 52.6,
+        "contribution": 3.6
+      },
+      {
+        "source_medium": "(not set) / (not set)",
+        "all_visitors": 503,
+        "signup_users": 19,
+        "conversion_rate": 3.8,
+        "contribution": 3.4
+      },
+      {
+        "source_medium": "blog / sns",
+        "all_visitors": 216,
+        "signup_users": 18,
+        "conversion_rate": 8.3,
+        "contribution": 3.2
+      },
+      {
+        "source_medium": "naver / cpc2",
+        "all_visitors": 57,
+        "signup_users": 17,
+        "conversion_rate": 29.8,
+        "contribution": 3.0
+      },
+      {
+        "source_medium": "(data not available) / (data not available)",
+        "all_visitors": 37,
+        "signup_users": 9,
+        "conversion_rate": 24.3,
+        "contribution": 1.6
+      },
+      {
+        "source_medium": "m.search.naver.com / referral",
+        "all_visitors": 1209,
+        "signup_users": 8,
+        "conversion_rate": 0.7,
+        "contribution": 1.4
+      },
+      {
+        "source_medium": "m.blog.naver.com / referral",
+        "all_visitors": 347,
+        "signup_users": 7,
+        "conversion_rate": 2.0,
+        "contribution": 1.2
+      },
+      {
+        "source_medium": "blog / blog-hp_posts725_ cjonstyle",
+        "all_visitors": 19,
+        "signup_users": 6,
+        "conversion_rate": 31.6,
+        "contribution": 1.1
+      },
+      {
+        "source_medium": "blog / blog-hp_posts729_gsshop_oneclick",
+        "all_visitors": 22,
+        "signup_users": 6,
+        "conversion_rate": 27.3,
+        "contribution": 1.1
+      },
+      {
+        "source_medium": "youtube.com / referral",
+        "all_visitors": 65,
+        "signup_users": 6,
+        "conversion_rate": 9.2,
+        "contribution": 1.1
+      },
+      {
+        "source_medium": "blog2 / sns",
+        "all_visitors": 9,
+        "signup_users": 5,
+        "conversion_rate": 55.6,
+        "contribution": 0.9
+      },
+      {
+        "source_medium": "bflowfaq.imweb.me / referral",
+        "all_visitors": 23,
+        "signup_users": 4,
+        "conversion_rate": 17.4,
+        "contribution": 0.7
+      },
+      {
+        "source_medium": "blog / blog-hp_posts734_lotteimall",
+        "all_visitors": 7,
+        "signup_users": 4,
+        "conversion_rate": 57.1,
+        "contribution": 0.7
+      },
+      {
+        "source_medium": "blog.naver.com / referral",
+        "all_visitors": 166,
+        "signup_users": 4,
+        "conversion_rate": 2.4,
+        "contribution": 0.7
+      },
+      {
+        "source_medium": "moli1st3cat.com / referral",
+        "all_visitors": 26,
+        "signup_users": 3,
+        "conversion_rate": 11.5,
+        "contribution": 0.5
+      },
+      {
+        "source_medium": "bing / organic",
+        "all_visitors": 18,
+        "signup_users": 2,
+        "conversion_rate": 11.1,
+        "contribution": 0.4
+      },
+      {
+        "source_medium": "blog / blog-hp_posts747_aliexpress",
+        "all_visitors": 7,
+        "signup_users": 2,
+        "conversion_rate": 28.6,
+        "contribution": 0.4
+      },
+      {
+        "source_medium": "blog / posts739_2025foodoneclick",
+        "all_visitors": 3,
+        "signup_users": 2,
+        "conversion_rate": 66.7,
+        "contribution": 0.4
+      },
+      {
+        "source_medium": "cpc / sa",
+        "all_visitors": 34,
+        "signup_users": 2,
+        "conversion_rate": 5.9,
+        "contribution": 0.4
+      },
+      {
+        "source_medium": "naver / cpc",
+        "all_visitors": 21,
+        "signup_users": 2,
+        "conversion_rate": 9.5,
+        "contribution": 0.4
+      },
+      {
+        "source_medium": "naver.com / referral",
+        "all_visitors": 226,
+        "signup_users": 2,
+        "conversion_rate": 0.9,
+        "contribution": 0.4
+      },
+      {
+        "source_medium": "ntp.msn.com / referral",
+        "all_visitors": 11,
+        "signup_users": 2,
+        "conversion_rate": 18.2,
+        "contribution": 0.4
+      },
+      {
+        "source_medium": "payment.b-flow.io / referral",
+        "all_visitors": 16,
+        "signup_users": 2,
+        "conversion_rate": 12.5,
+        "contribution": 0.4
+      },
+      {
+        "source_medium": "title / brand",
+        "all_visitors": 18,
+        "signup_users": 2,
+        "conversion_rate": 11.1,
+        "contribution": 0.4
+      },
+      {
+        "source_medium": "blog / blog-hp_posts726_3seconds_coupang",
+        "all_visitors": 5,
+        "signup_users": 1,
+        "conversion_rate": 20.0,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "blog / blog-hp_posts742_posty",
+        "all_visitors": 0,
+        "signup_users": 1,
+        "conversion_rate": 0,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "blog / posts719_one-seller",
+        "all_visitors": 0,
+        "signup_users": 1,
+        "conversion_rate": 0,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "blog / posts741_iherb",
+        "all_visitors": 3,
+        "signup_users": 1,
+        "conversion_rate": 33.3,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "blog.naverblogwidget.com / referral",
+        "all_visitors": 2,
+        "signup_users": 1,
+        "conversion_rate": 50.0,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "chatgpt.com / (not set)",
+        "all_visitors": 2,
+        "signup_users": 1,
+        "conversion_rate": 50.0,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "conv / FBIG_2025boostup4",
+        "all_visitors": 19,
+        "signup_users": 1,
+        "conversion_rate": 5.3,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "daum / organic",
+        "all_visitors": 11,
+        "signup_users": 1,
+        "conversion_rate": 9.1,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "flourishing.cafe24.com / referral",
+        "all_visitors": 0,
+        "signup_users": 1,
+        "conversion_rate": 0,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "instagram.com / referral",
+        "all_visitors": 3,
+        "signup_users": 1,
+        "conversion_rate": 33.3,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "instagram_link / sns",
+        "all_visitors": 2,
+        "signup_users": 1,
+        "conversion_rate": 50.0,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "item.gmarket.co.kr / referral",
+        "all_visitors": 0,
+        "signup_users": 1,
+        "conversion_rate": 0,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "link.sabangnet.co.kr / referral",
+        "all_visitors": 6,
+        "signup_users": 1,
+        "conversion_rate": 16.7,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "mp.cafe24.com / referral",
+        "all_visitors": 35,
+        "signup_users": 1,
+        "conversion_rate": 2.9,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "stibee / email",
+        "all_visitors": 2,
+        "signup_users": 1,
+        "conversion_rate": 50.0,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "stibee / stibee-hp_posts747_ali",
+        "all_visitors": 3,
+        "signup_users": 1,
+        "conversion_rate": 33.3,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "store.cafe24.com / referral",
+        "all_visitors": 2,
+        "signup_users": 1,
+        "conversion_rate": 50.0,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "vo.la / referral",
+        "all_visitors": 3,
+        "signup_users": 1,
+        "conversion_rate": 33.3,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "yahoo / organic",
+        "all_visitors": 3,
+        "signup_users": 1,
+        "conversion_rate": 33.3,
+        "contribution": 0.2
+      },
+      {
+        "source_medium": "youtube_main / ppl",
+        "all_visitors": 5,
+        "signup_users": 1,
+        "conversion_rate": 20.0,
+        "contribution": 0.2
+      }
+    ]
+  }
+}

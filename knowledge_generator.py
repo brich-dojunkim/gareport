@@ -433,7 +433,7 @@ class WebsiteKnowledgeGenerator:
 # 실행
 if __name__ == "__main__":
     # 설정
-    CREDENTIALS_PATH = "/Users/brich/Downloads/gareport/b-flow-407402-f835e3a78bf7.json"
+    CREDENTIALS_PATH = "/Users/brich/secure_keys/b-flow-407402-f835e3a78bf7.json"
     PROPERTY_ID = "302932513"
     
     # 지식 생성기 초기화 및 실행
