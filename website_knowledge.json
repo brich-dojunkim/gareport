@@ -1,0 +1,3059 @@
+{
+  "generated_at": "2025-06-26T14:19:46.721639",
+  "property_id": "302932513",
+  "website_structure": {
+    "sections": {
+      "login": {
+        "pages": 1,
+        "total_views": 50386.0,
+        "subsections": []
+      },
+      "order": {
+        "pages": 18,
+        "total_views": 96950.0,
+        "subsections": [
+          "deliveries",
+          "collect",
+          "all",
+          "penalties",
+          "exports",
+          "cancels",
+          "settle",
+          "delays",
+          "ca",
+          "unpaid",
+          "returns",
+          "cart",
+          "delivery-claims",
+          "hold",
+          "exchanges",
+          "export-failed",
+          "refunds",
+          "confirms"
+        ]
+      },
+      "products": {
+        "pages": 11,
+        "total_views": 29236.0,
+        "subsections": [
+          "monitoring",
+          "market-code-management",
+          "sale-ban",
+          "group",
+          "option-mapping-management",
+          "set-product-id",
+          "notice",
+          "verification",
+          "new",
+          "shortage"
+        ]
+      },
+      "distribution": {
+        "pages": 26,
+        "total_views": 28520.0,
+        "subsections": [
+          "order-excel-verify",
+          "category-tag",
+          "category-mapping",
+          "category-account",
+          "promotion",
+          "certification-mapping",
+          "fail-message",
+          "inspector-prices",
+          "distribution-verify",
+          "commission-confirm-targets",
+          "failed",
+          "policy-management",
+          "qna",
+          "cs-failed",
+          "commission-prices",
+          "invoice-failed",
+          "commission-uploads",
+          "qna-emergency",
+          "official-information-mapping",
+          "claim-failed",
+          "global-category-mapping",
+          "user-setting",
+          "product-status",
+          "client-category",
+          "product-jobs",
+          "promotions"
+        ]
+      },
+      "p-posts": {
+        "pages": 1,
+        "total_views": 8922.0,
+        "subsections": [
+          "qna"
+        ]
+      },
+      "product": {
+        "pages": 606,
+        "total_views": 9853.0,
+        "subsections": [
+          "261441768",
+          "94069117",
+          "1086971364",
+          "404122220",
+          "1012255308",
+          "1792108184",
+          "440843783",
+          "897816729",
+          "1301575103",
+          "1954261505",
+          "23938628",
+          "459976650",
+          "1715139933",
+          "1393567072",
+          "2060223380",
+          "133772577",
+          "1716015661",
+          "1529397746",
+          "1015779188",
+          "832480937",
+          "1923167288",
+          "1120846958",
+          "1333996334",
+          "1878524937",
+          "142550774",
+          "1283051295",
+          "1344930781",
+          "2002145127",
+          "185834638",
+          "1359490484",
+          "644573932",
+          "119754815",
+          "848792019",
+          "1557788486",
+          "490132663",
+          "2146872482",
+          "1422835102",
+          "2106586790",
+          "37549408",
+          "1226091635",
+          "340477926",
+          "370545840",
+          "2033455485",
+          "497615930",
+          "372988294",
+          "973459811",
+          "1030979715",
+          "1145775330",
+          "1822798982",
+          "1017488091",
+          "1731643357",
+          "642517512",
+          "1336522376",
+          "268259880",
+          "494873931",
+          "1981976090",
+          "1959474783",
+          "1055385539",
+          "625557409",
+          "803058111",
+          "1657851659",
+          "1977071271",
+          "595110794",
+          "671805629",
+          "1640736603",
+          "45650436",
+          "2016504451",
+          "2103825769",
+          "1450708569",
+          "826881780",
+          "1711606949",
+          "1224105498",
+          "403892309",
+          "279019754",
+          "1719941976",
+          "755558310",
+          "593394035",
+          "1849675005",
+          "334912398",
+          "925777348",
+          "303543980",
+          "2100389897",
+          "886627569",
+          "510217434",
+          "561962570",
+          "142676428",
+          "1628043695",
+          "31550891",
+          "1957326909",
+          "381527574",
+          "1843490431",
+          "1394026434",
+          "1732594043",
+          "1817298183",
+          "2065533546",
+          "506730563",
+          "390290606",
+          "1407496989",
+          "280330911",
+          "1331424883",
+          "910875309",
+          "1759929389",
+          "1222704316",
+          "1438394581",
+          "187811276",
+          "2071139472",
+          "1778495896",
+          "964860883",
+          "1966196739",
+          "1946022245",
+          "1934869217",
+          "1806671877",
+          "1633049832",
+          "1849471881",
+          "1588337483",
+          "1234541324",
+          "1232780195",
+          "1899592975",
+          "154523522",
+          "681779430",
+          "1426256356",
+          "364655082",
+          "415123888",
+          "1987597491",
+          "233595507",
+          "1256212791",
+          "1057766979",
+          "1290158982",
+          "258917997",
+          "1847483806",
+          "2020731021",
+          "1275958903",
+          "1045403162",
+          "1029976117",
+          "1351715661",
+          "823398169",
+          "64286597",
+          "756690881",
+          "1160196984",
+          "906668565",
+          "22826028",
+          "1156995395",
+          "1457612444",
+          "1814173264",
+          "972393307",
+          "2052602211",
+          "1402294562",
+          "469695034",
+          "1670538722",
+          "2045338226",
+          "1093576218",
+          "215441438",
+          "1465847494",
+          "1649274271",
+          "898308006",
+          "712509314",
+          "1061475294",
+          "1202315535",
+          "183707247",
+          "338073784",
+          "403814030",
+          "2504037",
+          "865120321",
+          "2015583689",
+          "1749133747",
+          "944783360",
+          "1653368772",
+          "1943771589",
+          "974468326",
+          "587037973",
+          "481327145",
+          "1863329865",
+          "1442410587",
+          "629852790",
+          "1187703920",
+          "1280003425",
+          "376683547",
+          "1185741483",
+          "1790394355",
+          "1078366094",
+          "1576153880",
+          "1181712592",
+          "1548370322",
+          "1191661354",
+          "666443893",
+          "1104427304",
+          "1243996436",
+          "888585945",
+          "2087368074",
+          "1897181458",
+          "2049096310",
+          "1584021528",
+          "1872223789",
+          "1878788532",
+          "2135965594",
+          "1430712709",
+          "916193357",
+          "647322514",
+          "318645369",
+          "1209281512",
+          "741212413",
+          "1147437503",
+          "565523976",
+          "1137937015",
+          "1738523755",
+          "62748118",
+          "1599766997",
+          "1253566556",
+          "2089912075",
+          "522625445",
+          "368279587",
+          "1792880481",
+          "1397116258",
+          "946082939",
+          "1643391042",
+          "2045685809",
+          "754306170",
+          "1112316134",
+          "233786040",
+          "1258240726",
+          "559381427",
+          "1085252071",
+          "507874283",
+          "1970305681",
+          "1967931396",
+          "284376762",
+          "397188349",
+          "1649808143",
+          "1132638543",
+          "766491020",
+          "1779495812",
+          "475683094",
+          "2114552703",
+          "260981090",
+          "1777719169",
+          "994611785",
+          "372641634",
+          "1011752680",
+          "1064205196",
+          "1607749048",
+          "763318406",
+          "1545535023",
+          "1919249196",
+          "1391024402",
+          "1913058725",
+          "443126917",
+          "327675765",
+          "1141665562",
+          "391712348",
+          "1733659168",
+          "1676757620",
+          "140180493",
+          "977342102",
+          "838211581",
+          "987967451",
+          "257531398",
+          "1567877082",
+          "1336001234",
+          "2030892492",
+          "51782970",
+          "212163347",
+          "1441638064",
+          "1861266939",
+          "1462399176",
+          "143077121",
+          "1799252453",
+          "173477503",
+          "193927837",
+          "1293188901",
+          "1332904399",
+          "1724027905",
+          "1124212689",
+          "916052103",
+          "1964352440",
+          "164469919",
+          "1894531651",
+          "194946196",
+          "1747328980",
+          "1144067109",
+          "451369563",
+          "1526123849",
+          "1620251863",
+          "140698222",
+          "1857523070",
+          "550993738",
+          "115644784",
+          "212262186",
+          "746849586",
+          "1195746030",
+          "1667482375",
+          "1747014817",
+          "1586659095",
+          "1555761324",
+          "1659112840",
+          "1297006257",
+          "1006770927",
+          "823738960",
+          "183192463",
+          "540777662",
+          "732387249",
+          "1498652201",
+          "2071925002",
+          "1004184792",
+          "48518979",
+          "540377465",
+          "960767584",
+          "1587640884",
+          "132853410",
+          "359854853",
+          "575669757",
+          "2137582880",
+          "462990784",
+          "2109417214",
+          "1469808595",
+          "811106996",
+          "727232621",
+          "2063723149",
+          "956609103",
+          "2015128920",
+          "1678060510",
+          "1855180774",
+          "1981132626",
+          "1463872116",
+          "835319454",
+          "1830781070",
+          "1134345760",
+          "707082942",
+          "1250125098",
+          "52326448",
+          "1358895953",
+          "1401490576",
+          "1892689327",
+          "321692099",
+          "230785194",
+          "1030886032",
+          "2024267348",
+          "1909777370",
+          "944175900",
+          "1391268798",
+          "1443016721",
+          "2098781827",
+          "1162488914",
+          "1003693964",
+          "1959173261",
+          "123074528",
+          "223905156",
+          "1540842073",
+          "80385071",
+          "1356374844",
+          "284821011",
+          "2057490616",
+          "1594841477",
+          "1303217834",
+          "104546184",
+          "1167236040",
+          "381671937",
+          "1100548532",
+          "978743238",
+          "1400156878",
+          "1377364396",
+          "1531297724",
+          "1440170554",
+          "137888296",
+          "1368154975",
+          "1705028766",
+          "262553708",
+          "444690882",
+          "1303338009",
+          "543360683",
+          "1901272519",
+          "1729086644",
+          "625393424",
+          "742448942",
+          "1547745353",
+          "1280285822",
+          "1894773560",
+          "2128220458",
+          "1574609689",
+          "966694568",
+          "2133574810",
+          "1231174663",
+          "439624100",
+          "1381151584",
+          "48343445",
+          "1709177529",
+          "236759740",
+          "434756454",
+          "1425149223",
+          "897731435",
+          "1092973153",
+          "445708842",
+          "218126396",
+          "628338185",
+          "294072722",
+          "169157947",
+          "609021053",
+          "498237136",
+          "1269267406",
+          "411081190",
+          "1132340322",
+          "1345213162",
+          "766672621",
+          "1539374637",
+          "112006383",
+          "1854035542",
+          "1298973684",
+          "637234688",
+          "1706323078",
+          "1187337909",
+          "772407602",
+          "385519193",
+          "124542403",
+          "200951014",
+          "7659985",
+          "218395478",
+          "618532131",
+          "1874783625",
+          "1847469083",
+          "48702649",
+          "1727107216",
+          "2078245193",
+          "130769255",
+          "1095981676",
+          "364196655",
+          "2110611507",
+          "345894025",
+          "389131457",
+          "1358571604",
+          "2009603545",
+          "1331503710",
+          "139851871",
+          "2135076758",
+          "684531615",
+          "458978219",
+          "317111163",
+          "918711374",
+          "2000784873",
+          "1104405139",
+          "1648198455",
+          "751485243",
+          "59933249",
+          "558961514",
+          "1431105691",
+          "1565453449",
+          "1030652046",
+          "2006837041",
+          "1972772356",
+          "73415873",
+          "297630250",
+          "244708433",
+          "921422292",
+          "570722504",
+          "1797053412",
+          "787429449",
+          "2015213106",
+          "2063512080",
+          "1956334814",
+          "551719914",
+          "1489395745",
+          "851555192",
+          "999421279",
+          "295470241",
+          "205215865",
+          "2006192653",
+          "1221187976",
+          "1359755908",
+          "1757729355",
+          "1577099439",
+          "107869966",
+          "727606911",
+          "2047823580",
+          "1407055973",
+          "1150639407",
+          "288141887",
+          "51896722",
+          "1892971708",
+          "1158412999",
+          "679843234",
+          "674653023",
+          "314094883",
+          "1903424927",
+          "185158024",
+          "51494719",
+          "create",
+          "1639786050",
+          "561188449",
+          "405516848",
+          "1045953007",
+          "1535558681",
+          "1735957048",
+          "1525838067",
+          "1529733642",
+          "286504939",
+          "372939002",
+          "1882399822",
+          "13200910",
+          "152418485",
+          "971607676",
+          "518561694",
+          "1100046812",
+          "2028531676",
+          "view",
+          "1865216361",
+          "1152068757",
+          "1011748716",
+          "2135260300",
+          "1336632624",
+          "1655981601",
+          "1338288571",
+          "490831345",
+          "460854676",
+          "251952743",
+          "1586736657",
+          "1314127992",
+          "820653700",
+          "953857909",
+          "1030277714",
+          "1648087585",
+          "1919813236",
+          "1964125331",
+          "1485840722",
+          "2032758383",
+          "738025589",
+          "298637380",
+          "210332619",
+          "1620265193",
+          "1830198480",
+          "855742245",
+          "135966529",
+          "237461907",
+          "1298934752",
+          "665365480",
+          "1335112450",
+          "1818722435",
+          "216461939",
+          "326035345",
+          "1683113823",
+          "1464329361",
+          "1278752007",
+          "1223907044",
+          "1696913301",
+          "311185302",
+          "40253354",
+          "473373280",
+          "10369623",
+          "1419402505",
+          "1132663635",
+          "1219291956",
+          "15299855",
+          "2061366941",
+          "1002456869"
+        ]
+      },
+      "providers": {
+        "pages": 1,
+        "total_views": 5175.0,
+        "subsections": []
+      },
+      "skill-guide": {
+        "pages": 5,
+        "total_views": 3932.0,
+        "subsections": [
+          "index",
+          "one-click",
+          "market-management",
+          "sales-solution"
+        ]
+      },
+      "id-login": {
+        "pages": 1,
+        "total_views": 3467.0,
+        "subsections": []
+      },
+      "provider-join": {
+        "pages": 1,
+        "total_views": 2595.0,
+        "subsections": []
+      },
+      "posts": {
+        "pages": 143,
+        "total_views": 12284.0,
+        "subsections": [
+          "51",
+          "58",
+          "482",
+          "271",
+          "709",
+          "537",
+          "736",
+          "454",
+          "427",
+          "573",
+          "746",
+          "742",
+          "577",
+          "711",
+          "723",
+          "56",
+          "76",
+          "387",
+          "290",
+          "567",
+          "59",
+          "368",
+          "435",
+          "714",
+          "670",
+          "306",
+          "62",
+          "450",
+          "587",
+          "699",
+          "750",
+          "471",
+          "608",
+          "105",
+          "692",
+          "606ㅍ",
+          "295",
+          "572",
+          "728",
+          "509",
+          "685",
+          "551",
+          "543",
+          "733",
+          "78",
+          "72",
+          "550",
+          "70",
+          "397",
+          "388",
+          "739",
+          "580",
+          "741",
+          "308",
+          "730",
+          "610",
+          "64",
+          "737",
+          "416",
+          "506",
+          "375",
+          "635",
+          "582",
+          "253",
+          "682",
+          "536",
+          "703",
+          "569",
+          "81",
+          "469",
+          "42",
+          "603",
+          "624",
+          "39",
+          "524",
+          "365",
+          "664",
+          "553",
+          "411",
+          "43",
+          "683",
+          "47",
+          "589",
+          "745",
+          "738",
+          "636",
+          "474",
+          "700",
+          "725",
+          "705",
+          "729",
+          "592",
+          "731",
+          "753",
+          "521",
+          "724",
+          "384",
+          "547",
+          "598",
+          "575",
+          "540",
+          "330",
+          "726",
+          "715",
+          "377",
+          "734",
+          "90",
+          "707",
+          "687",
+          "719",
+          "690",
+          "520",
+          "452",
+          "751",
+          "309",
+          "674",
+          "617",
+          "82",
+          "697",
+          "343",
+          "102",
+          "637",
+          "372",
+          "539",
+          "747",
+          "661",
+          "440",
+          "590",
+          "460",
+          "695",
+          "500",
+          "269",
+          "473",
+          "701",
+          "713",
+          "606",
+          "49",
+          "595",
+          "297",
+          "423",
+          "749"
+        ]
+      },
+      "global": {
+        "pages": 9,
+        "total_views": 3608.0,
+        "subsections": [
+          "order"
+        ]
+      },
+      "sp-calculation": {
+        "pages": 3,
+        "total_views": 3081.0,
+        "subsections": [
+          "completion",
+          "waiting",
+          "setup"
+        ]
+      },
+      "fee-information": {
+        "pages": 1,
+        "total_views": 1520.0,
+        "subsections": []
+      },
+      "channels": {
+        "pages": 1,
+        "total_views": 1509.0,
+        "subsections": []
+      },
+      "managers": {
+        "pages": 1,
+        "total_views": 1480.0,
+        "subsections": []
+      },
+      "market-manage": {
+        "pages": 1,
+        "total_views": 1433.0,
+        "subsections": []
+      },
+      "service-plan": {
+        "pages": 4,
+        "total_views": 2379.0,
+        "subsections": [
+          "provider-plan-orders",
+          "plan-deferred-pay",
+          "provider-plan",
+          "provider-plans"
+        ]
+      },
+      "products-v2": {
+        "pages": 4,
+        "total_views": 3593.0,
+        "subsections": [
+          "create",
+          "import-product",
+          "manage"
+        ]
+      },
+      "userposts": {
+        "pages": 1,
+        "total_views": 1053.0,
+        "subsections": []
+      },
+      "analytics": {
+        "pages": 2,
+        "total_views": 1380.0,
+        "subsections": [
+          "product-sales",
+          "sales"
+        ]
+      },
+      "products-crawling": {
+        "pages": 3,
+        "total_views": 1794.0,
+        "subsections": [
+          "cafe24",
+          "smartstore",
+          "stylewindow"
+        ]
+      },
+      "admin": {
+        "pages": 3,
+        "total_views": 1898.0,
+        "subsections": [
+          "payment-method",
+          "settings",
+          "seller-information"
+        ]
+      },
+      "calculation": {
+        "pages": 3,
+        "total_views": 1837.0,
+        "subsections": [
+          "completion",
+          "waiting",
+          "surtax"
+        ]
+      },
+      "provider": {
+        "pages": 8,
+        "total_views": 1071.0,
+        "subsections": [
+          "brands",
+          "commission-management",
+          "self",
+          "commissions",
+          "issues",
+          "stores"
+        ]
+      },
+      "delivery-policy": {
+        "pages": 1,
+        "total_views": 671.0,
+        "subsections": []
+      },
+      "search": {
+        "pages": 1,
+        "total_views": 507.0,
+        "subsections": []
+      },
+      "homebest": {
+        "pages": 1,
+        "total_views": 445.0,
+        "subsections": []
+      },
+      "store": {
+        "pages": 1,
+        "total_views": 381.0,
+        "subsections": []
+      },
+      "address-manage": {
+        "pages": 1,
+        "total_views": 370.0,
+        "subsections": []
+      },
+      "deals": {
+        "pages": 1,
+        "total_views": 312.0,
+        "subsections": []
+      },
+      "counsel-request": {
+        "pages": 1,
+        "total_views": 292.0,
+        "subsections": []
+      },
+      "provider-join-result": {
+        "pages": 1,
+        "total_views": 272.0,
+        "subsections": []
+      },
+      "p-notices": {
+        "pages": 1,
+        "total_views": 260.0,
+        "subsections": []
+      },
+      "seller-certification": {
+        "pages": 1,
+        "total_views": 253.0,
+        "subsections": []
+      },
+      "sms-send-list": {
+        "pages": 1,
+        "total_views": 248.0,
+        "subsections": []
+      },
+      "tutorial": {
+        "pages": 1,
+        "total_views": 240.0,
+        "subsections": []
+      },
+      "categories": {
+        "pages": 1,
+        "total_views": 233.0,
+        "subsections": []
+      },
+      "sms-templates": {
+        "pages": 1,
+        "total_views": 230.0,
+        "subsections": []
+      },
+      "calculation-history-summary": {
+        "pages": 1,
+        "total_views": 226.0,
+        "subsections": []
+      },
+      "password": {
+        "pages": 3,
+        "total_views": 239.0,
+        "subsections": [
+          "reset"
+        ]
+      },
+      "member": {
+        "pages": 5,
+        "total_views": 273.0,
+        "subsections": [
+          "agreement",
+          "register",
+          "login"
+        ]
+      },
+      "homeroadshop": {
+        "pages": 1,
+        "total_views": 217.0,
+        "subsections": []
+      },
+      "order-registration": {
+        "pages": 1,
+        "total_views": 216.0,
+        "subsections": []
+      },
+      "smartstore-manage": {
+        "pages": 1,
+        "total_views": 214.0,
+        "subsections": []
+      },
+      "mypage": {
+        "pages": 5,
+        "total_views": 257.0,
+        "subsections": [
+          "order",
+          "wish_add",
+          "cscenter",
+          "terms"
+        ]
+      },
+      "calculation-histories": {
+        "pages": 1,
+        "total_views": 193.0,
+        "subsections": []
+      },
+      "promotion": {
+        "pages": 1,
+        "total_views": 190.0,
+        "subsections": [
+          "create"
+        ]
+      },
+      "brand-v2": {
+        "pages": 1,
+        "total_views": 164.0,
+        "subsections": []
+      },
+      "homemall": {
+        "pages": 1,
+        "total_views": 143.0,
+        "subsections": []
+      },
+      "p-faqs": {
+        "pages": 1,
+        "total_views": 141.0,
+        "subsections": []
+      },
+      "aliexpress-calculation-history-carried": {
+        "pages": 1,
+        "total_views": 139.0,
+        "subsections": []
+      },
+      "ak": {
+        "pages": 1,
+        "total_views": 134.0,
+        "subsections": []
+      },
+      "partner-center": {
+        "pages": 1,
+        "total_views": 119.0,
+        "subsections": [
+          "process-manual"
+        ]
+      },
+      "delivery-penalty-calculation-history": {
+        "pages": 1,
+        "total_views": 118.0,
+        "subsections": []
+      },
+      "faq": {
+        "pages": 1,
+        "total_views": 116.0,
+        "subsections": []
+      },
+      "bflow-posts-manage": {
+        "pages": 1,
+        "total_views": 115.0,
+        "subsections": []
+      },
+      "ebay-deal": {
+        "pages": 1,
+        "total_views": 112.0,
+        "subsections": [
+          "create"
+        ]
+      },
+      "deal": {
+        "pages": 8,
+        "total_views": 123.0,
+        "subsections": [
+          "create",
+          "view"
+        ]
+      },
+      "homebrand": {
+        "pages": 1,
+        "total_views": 75.0,
+        "subsections": []
+      },
+      "shop": {
+        "pages": 2,
+        "total_views": 80.0,
+        "subsections": [
+          "twenty",
+          "jadore"
+        ]
+      },
+      "event": {
+        "pages": 3,
+        "total_views": 86.0,
+        "subsections": [
+          "list",
+          "view"
+        ]
+      },
+      "market-calculation-histories": {
+        "pages": 1,
+        "total_views": 70.0,
+        "subsections": []
+      },
+      "calculation-history-confirmed": {
+        "pages": 1,
+        "total_views": 65.0,
+        "subsections": []
+      },
+      "agreements": {
+        "pages": 1,
+        "total_views": 64.0,
+        "subsections": []
+      },
+      "aliexpress-calculation-history-confirmed": {
+        "pages": 1,
+        "total_views": 61.0,
+        "subsections": []
+      },
+      "category": {
+        "pages": 15,
+        "total_views": 179.0,
+        "subsections": [
+          "000100010001",
+          "0003",
+          "000100010018",
+          "00010004",
+          "000100010003",
+          "000100010009",
+          "0001",
+          "0002",
+          "00010001",
+          "000100010006",
+          "000100010002",
+          "000100010010",
+          "000100010005",
+          "000100010007",
+          "000100010011"
+        ]
+      },
+      "excel-downloads": {
+        "pages": 1,
+        "total_views": 53.0,
+        "subsections": []
+      },
+      "bank-deposits": {
+        "pages": 1,
+        "total_views": 48.0,
+        "subsections": []
+      },
+      "aliexpress-calculation-histories": {
+        "pages": 1,
+        "total_views": 46.0,
+        "subsections": []
+      },
+      "cs": {
+        "pages": 2,
+        "total_views": 50.0,
+        "subsections": [
+          "create-distribution-orders",
+          "edit-order-due-date"
+        ]
+      },
+      "aliexpress-calculation-history-pending": {
+        "pages": 1,
+        "total_views": 44.0,
+        "subsections": []
+      },
+      "brand": {
+        "pages": 19,
+        "total_views": 155.0,
+        "subsections": [
+          "839300347",
+          "837970037",
+          "634594183",
+          "167691482",
+          "1684144182",
+          "1674789696",
+          "1108946248",
+          "978698424",
+          "187462240",
+          "878891177",
+          "1501554749",
+          "1501164538",
+          "1037079576",
+          "1935623188",
+          "108937644",
+          "235058904",
+          "564206343",
+          "932858284",
+          "883419556"
+        ]
+      },
+      "restricted-keyword": {
+        "pages": 1,
+        "total_views": 42.0,
+        "subsections": []
+      },
+      "app-down": {
+        "pages": 1,
+        "total_views": 37.0,
+        "subsections": []
+      },
+      "counsel-request-complete": {
+        "pages": 1,
+        "total_views": 37.0,
+        "subsections": []
+      },
+      "notices": {
+        "pages": 1,
+        "total_views": 36.0,
+        "subsections": []
+      },
+      "mobile": {
+        "pages": 1,
+        "total_views": 30.0,
+        "subsections": [
+          "login"
+        ]
+      },
+      "roles": {
+        "pages": 1,
+        "total_views": 30.0,
+        "subsections": []
+      },
+      "settlement-calculation-histories": {
+        "pages": 1,
+        "total_views": 30.0,
+        "subsections": []
+      },
+      "homeevent": {
+        "pages": 1,
+        "total_views": 26.0,
+        "subsections": []
+      },
+      "open-api": {
+        "pages": 1,
+        "total_views": 26.0,
+        "subsections": [
+          "logs"
+        ]
+      },
+      "returns": {
+        "pages": 2,
+        "total_views": 37.0,
+        "subsections": [
+          "collect",
+          "revoke"
+        ]
+      },
+      "cancels": {
+        "pages": 2,
+        "total_views": 37.0,
+        "subsections": [
+          "collect",
+          "revoke"
+        ]
+      },
+      "myheart": {
+        "pages": 1,
+        "total_views": 21.0,
+        "subsections": []
+      },
+      "goods": {
+        "pages": 2,
+        "total_views": 29.0,
+        "subsections": [
+          "search",
+          "view_popup2"
+        ]
+      },
+      "todaydelivery": {
+        "pages": 1,
+        "total_views": 18.0,
+        "subsections": []
+      },
+      "posts-list": {
+        "pages": 1,
+        "total_views": 17.0,
+        "subsections": [
+          "review"
+        ]
+      },
+      "early-calculation": {
+        "pages": 1,
+        "total_views": 15.0,
+        "subsections": []
+      },
+      "exchanges": {
+        "pages": 2,
+        "total_views": 21.0,
+        "subsections": [
+          "collect",
+          "revoke"
+        ]
+      },
+      "attendance": {
+        "pages": 1,
+        "total_views": 13.0,
+        "subsections": []
+      },
+      "mshop": {
+        "pages": 2,
+        "total_views": 17.0,
+        "subsections": [
+          "view"
+        ]
+      },
+      "p": {
+        "pages": 4,
+        "total_views": 33.0,
+        "subsections": [
+          "25",
+          "21",
+          "28",
+          "24"
+        ]
+      },
+      "all-excel-downloads": {
+        "pages": 1,
+        "total_views": 12.0,
+        "subsections": []
+      },
+      "documents": {
+        "pages": 1,
+        "total_views": 12.0,
+        "subsections": []
+      },
+      "qna": {
+        "pages": 1,
+        "total_views": 10.0,
+        "subsections": [
+          "collect"
+        ]
+      },
+      "subscriptions": {
+        "pages": 1,
+        "total_views": 10.0,
+        "subsections": [
+          "294441"
+        ]
+      },
+      "deliveries": {
+        "pages": 1,
+        "total_views": 8.0,
+        "subsections": []
+      },
+      "homereward": {
+        "pages": 1,
+        "total_views": 8.0,
+        "subsections": []
+      },
+      "manage-agreements": {
+        "pages": 1,
+        "total_views": 6.0,
+        "subsections": []
+      },
+      "selleradmin": {
+        "pages": 1,
+        "total_views": 6.0,
+        "subsections": [
+          "login"
+        ]
+      },
+      "render2": {
+        "pages": 1,
+        "total_views": 5.0,
+        "subsections": []
+      },
+      "brands": {
+        "pages": 1,
+        "total_views": 4.0,
+        "subsections": []
+      }
+    },
+    "depth_analysis": {},
+    "url_patterns": []
+  },
+  "pages": {
+    "total_pages": 1000,
+    "top_pages": [
+      {
+        "pagePath": "/",
+        "pageTitle": "B-flow",
+        "screenPageViews": 128857.0,
+        "activeUsers": 2830.0,
+        "sessions": 56320.0,
+        "engagementRate": 0.8390092329545454,
+        "averageSessionDuration": 519.2596188070845
+      },
+      {
+        "pagePath": "/login",
+        "pageTitle": "비플로우",
+        "screenPageViews": 50386.0,
+        "activeUsers": 6314.0,
+        "sessions": 45484.0,
+        "engagementRate": 0.8473309295576467,
+        "averageSessionDuration": 76.83484790935273
+      },
+      {
+        "pagePath": "/order/all",
+        "pageTitle": "비플로우",
+        "screenPageViews": 25871.0,
+        "activeUsers": 895.0,
+        "sessions": 14174.0,
+        "engagementRate": 0.9106815295611683,
+        "averageSessionDuration": 227.5416707879921
+      },
+      {
+        "pagePath": "/order/exports",
+        "pageTitle": "비플로우",
+        "screenPageViews": 23951.0,
+        "activeUsers": 697.0,
+        "sessions": 14850.0,
+        "engagementRate": 0.8868013468013468,
+        "averageSessionDuration": 231.78710161656565
+      },
+      {
+        "pagePath": "/order/returns",
+        "pageTitle": "비플로우",
+        "screenPageViews": 17906.0,
+        "activeUsers": 541.0,
+        "sessions": 10080.0,
+        "engagementRate": 0.8951388888888889,
+        "averageSessionDuration": 220.16923950238098
+      },
+      {
+        "pagePath": "/products/new",
+        "pageTitle": "비플로우",
+        "screenPageViews": 15880.0,
+        "activeUsers": 1069.0,
+        "sessions": 12423.0,
+        "engagementRate": 0.8314416807534412,
+        "averageSessionDuration": 301.8948836035579
+      },
+      {
+        "pagePath": "/distribution/qna",
+        "pageTitle": "비플로우",
+        "screenPageViews": 12326.0,
+        "activeUsers": 484.0,
+        "sessions": 5803.0,
+        "engagementRate": 0.9429605376529381,
+        "averageSessionDuration": 269.3721591268309
+      },
+      {
+        "pagePath": "/distribution/qna-emergency",
+        "pageTitle": "비플로우",
+        "screenPageViews": 10365.0,
+        "activeUsers": 428.0,
+        "sessions": 4930.0,
+        "engagementRate": 0.9460446247464503,
+        "averageSessionDuration": 268.876021820284
+      },
+      {
+        "pagePath": "/p-posts/qna",
+        "pageTitle": "비플로우",
+        "screenPageViews": 8922.0,
+        "activeUsers": 671.0,
+        "sessions": 5508.0,
+        "engagementRate": 0.9130355846042121,
+        "averageSessionDuration": 340.93342919680464
+      },
+      {
+        "pagePath": "/order/cancels",
+        "pageTitle": "비플로우",
+        "screenPageViews": 7951.0,
+        "activeUsers": 394.0,
+        "sessions": 4718.0,
+        "engagementRate": 0.9527342094107673,
+        "averageSessionDuration": 168.18296417147096
+      },
+      {
+        "pagePath": "/order/delays",
+        "pageTitle": "비플로우",
+        "screenPageViews": 6800.0,
+        "activeUsers": 370.0,
+        "sessions": 3256.0,
+        "engagementRate": 0.9453316953316954,
+        "averageSessionDuration": 190.17896970393122
+      },
+      {
+        "pagePath": "/order/exchanges",
+        "pageTitle": "비플로우",
+        "screenPageViews": 6472.0,
+        "activeUsers": 284.0,
+        "sessions": 4195.0,
+        "engagementRate": 0.8855780691299165,
+        "averageSessionDuration": 186.75342827580454
+      },
+      {
+        "pagePath": "/products",
+        "pageTitle": "비플로우",
+        "screenPageViews": 6205.0,
+        "activeUsers": 551.0,
+        "sessions": 3129.0,
+        "engagementRate": 0.8954937679769894,
+        "averageSessionDuration": 243.2052959622883
+      },
+      {
+        "pagePath": "/product/create",
+        "pageTitle": "비플로우",
+        "screenPageViews": 5386.0,
+        "activeUsers": 324.0,
+        "sessions": 1883.0,
+        "engagementRate": 0.9484864577801381,
+        "averageSessionDuration": 685.6899763919278
+      },
+      {
+        "pagePath": "/providers",
+        "pageTitle": "비플로우",
+        "screenPageViews": 5175.0,
+        "activeUsers": 124.0,
+        "sessions": 1389.0,
+        "engagementRate": 0.9143268538516919,
+        "averageSessionDuration": 763.8784594499639
+      },
+      {
+        "pagePath": "/",
+        "pageTitle": "브리치",
+        "screenPageViews": 4561.0,
+        "activeUsers": 2016.0,
+        "sessions": 3002.0,
+        "engagementRate": 0.519653564290473,
+        "averageSessionDuration": 112.06415934510326
+      },
+      {
+        "pagePath": "/skill-guide/one-click",
+        "pageTitle": "기능안내",
+        "screenPageViews": 3641.0,
+        "activeUsers": 2029.0,
+        "sessions": 2677.0,
+        "engagementRate": 0.3776615614493836,
+        "averageSessionDuration": 50.823129580127016
+      },
+      {
+        "pagePath": "/id-login",
+        "pageTitle": "로그인",
+        "screenPageViews": 3467.0,
+        "activeUsers": 239.0,
+        "sessions": 3007.0,
+        "engagementRate": 0.9770535417359495,
+        "averageSessionDuration": 17.0259537628866
+      },
+      {
+        "pagePath": "/order/deliveries",
+        "pageTitle": "비플로우",
+        "screenPageViews": 3357.0,
+        "activeUsers": 367.0,
+        "sessions": 1737.0,
+        "engagementRate": 0.9378238341968912,
+        "averageSessionDuration": 214.2108708503166
+      },
+      {
+        "pagePath": "/products/monitoring",
+        "pageTitle": "비플로우",
+        "screenPageViews": 2622.0,
+        "activeUsers": 471.0,
+        "sessions": 2024.0,
+        "engagementRate": 0.8824110671936759,
+        "averageSessionDuration": 201.1553875889328
+      }
+    ],
+    "page_categories": {
+      "homepage": {
+        "count": 3,
+        "total_views": 133456.0,
+        "examples": [
+          {
+            "path": "/",
+            "title": "B-flow",
+            "views": 128857.0
+          },
+          {
+            "path": "/",
+            "title": "브리치",
+            "views": 4561.0
+          },
+          {
+            "path": "/",
+            "title": "셀.알.정 뉴스레터",
+            "views": 38.0
+          }
+        ]
+      },
+      "authentication": {
+        "count": 6,
+        "total_views": 54120.0,
+        "examples": [
+          {
+            "path": "/login",
+            "title": "비플로우",
+            "views": 50386.0
+          },
+          {
+            "path": "/id-login",
+            "title": "로그인",
+            "views": 3467.0
+          },
+          {
+            "path": "/member/login",
+            "title": "브리치",
+            "views": 218.0
+          }
+        ]
+      },
+      "order_management": {
+        "count": 33,
+        "total_views": 101095.0,
+        "examples": [
+          {
+            "path": "/order/all",
+            "title": "비플로우",
+            "views": 25871.0
+          },
+          {
+            "path": "/order/exports",
+            "title": "비플로우",
+            "views": 23951.0
+          },
+          {
+            "path": "/order/returns",
+            "title": "비플로우",
+            "views": 17906.0
+          }
+        ]
+      },
+      "product_management": {
+        "count": 627,
+        "total_views": 46472.0,
+        "examples": [
+          {
+            "path": "/products/new",
+            "title": "비플로우",
+            "views": 15880.0
+          },
+          {
+            "path": "/products",
+            "title": "비플로우",
+            "views": 6205.0
+          },
+          {
+            "path": "/product/create",
+            "title": "비플로우",
+            "views": 5386.0
+          }
+        ]
+      },
+      "distribution": {
+        "count": 23,
+        "total_views": 26946.0,
+        "examples": [
+          {
+            "path": "/distribution/qna",
+            "title": "비플로우",
+            "views": 12326.0
+          },
+          {
+            "path": "/distribution/qna-emergency",
+            "title": "비플로우",
+            "views": 10365.0
+          },
+          {
+            "path": "/distribution/policy-management",
+            "title": "비플로우",
+            "views": 1412.0
+          }
+        ]
+      },
+      "support": {
+        "count": 7,
+        "total_views": 12864.0,
+        "examples": [
+          {
+            "path": "/p-posts/qna",
+            "title": "비플로우",
+            "views": 8922.0
+          },
+          {
+            "path": "/skill-guide/one-click",
+            "title": "기능안내",
+            "views": 3641.0
+          },
+          {
+            "path": "/skill-guide",
+            "title": "기능안내",
+            "views": 123.0
+          }
+        ]
+      },
+      "other": {
+        "count": 155,
+        "total_views": 33862.0,
+        "examples": [
+          {
+            "path": "/providers",
+            "title": "비플로우",
+            "views": 5175.0
+          },
+          {
+            "path": "/provider-join",
+            "title": "비플로우",
+            "views": 2595.0
+          },
+          {
+            "path": "/sp-calculation/completion",
+            "title": "B-flow",
+            "views": 1777.0
+          }
+        ]
+      },
+      "content": {
+        "count": 146,
+        "total_views": 13469.0,
+        "examples": [
+          {
+            "path": "/posts/739",
+            "title": "콘텐츠",
+            "views": 1983.0
+          },
+          {
+            "path": "/userposts",
+            "title": "비플로우",
+            "views": 1053.0
+          },
+          {
+            "path": "/posts/474",
+            "title": "콘텐츠",
+            "views": 768.0
+          }
+        ]
+      }
+    },
+    "performance_summary": {
+      "total_pageviews": 422284.0,
+      "total_users": 45864.0,
+      "avg_engagement": 0.7902958580566003
+    }
+  },
+  "traffic_sources": {
+    "top_sources": {
+      "(direct)/(none)": {
+        "sessions": 50575.0,
+        "users": 6573.0,
+        "pages": [
+          "/",
+          "/login",
+          "/order/exports",
+          "/order/all",
+          "/order/returns",
+          "/products/new",
+          "/distribution/qna",
+          "/distribution/qna-emergency",
+          "/order/exchanges",
+          "/order/cancels",
+          "/p-posts/qna",
+          "/order/delays",
+          "/products",
+          "/id-login",
+          "/order/ca/all",
+          "/order/deliveries",
+          "/products/set-product-id",
+          "/sp-calculation/completion",
+          "/product/create",
+          "/order/export-failed",
+          "/sp-calculation/waiting",
+          "/products/monitoring",
+          "/global/order/exports",
+          "/products-v2/manage",
+          "/products-crawling/cafe24",
+          "/calculation/waiting",
+          "/global/order/cancels",
+          "/products/verification",
+          "/userposts",
+          "/providers",
+          "/calculation/completion",
+          "/products/option-mapping-management",
+          "/provider-join",
+          "/products-v2",
+          "/products-crawling/stylewindow",
+          "/products-v2/import-product",
+          "/admin/payment-method",
+          "/managers",
+          "/distribution/product-jobs",
+          "/sms-send-list",
+          "/channels",
+          "/market-manage",
+          "/order/hold",
+          "/service-plan/provider-plan",
+          "/global/order/returns",
+          "/order/refunds",
+          "/fee-information",
+          "/sms-templates",
+          "/global/order/exchanges",
+          "/products-v2/create",
+          "/calculation-histories",
+          "/calculation-history-summary",
+          "/p-notices",
+          "/analytics/sales",
+          "/products-crawling/smartstore",
+          "/search",
+          "/admin/settings",
+          "/admin/seller-information",
+          "/promotion/create",
+          "/provider/stores",
+          "/delivery-policy",
+          "/product/642517512",
+          "/order-registration",
+          "/posts/537",
+          "/calculation/surtax",
+          "/posts",
+          "/products/notice",
+          "/ak",
+          "/order/confirms",
+          "/product/218126396",
+          "/address-manage",
+          "/service-plan/provider-plan-orders",
+          "/member/login",
+          "/aliexpress-calculation-history-carried",
+          "/homebest",
+          "/global/order/export-failed",
+          "/mypage",
+          "/order/penalties",
+          "/calculation-history-confirmed",
+          "/categories",
+          "/distribution/commission-prices",
+          "/distribution/promotions",
+          "/smartstore-manage",
+          "/tutorial",
+          "/product/view/1099013555",
+          "/products/shortage",
+          "/brand-v2",
+          "/distribution/commission-confirm-targets",
+          "/store",
+          "/homeroadshop",
+          "/counsel-request",
+          "/delivery-penalty-calculation-history",
+          "/distribution/category-mapping",
+          "/distribution/commission-uploads"
+        ]
+      },
+      "naver/organic": {
+        "sessions": 5854.0,
+        "users": 1807.0,
+        "pages": [
+          "/",
+          "/login",
+          "/products/new",
+          "/order/exports",
+          "/order/all",
+          "/order/returns",
+          "/id-login",
+          "/p-posts/qna",
+          "/posts/474",
+          "/distribution/qna-emergency",
+          "/fee-information",
+          "/products/monitoring",
+          "/distribution/qna",
+          "/product/create",
+          "/order/exchanges",
+          "/provider-join",
+          "/order/delays",
+          "/service-plan/provider-plan",
+          "/products",
+          "/posts/427",
+          "/analytics/sales",
+          "/order/cancels",
+          "/market-manage",
+          "/search",
+          "/delivery-policy",
+          "/admin/payment-method",
+          "/posts",
+          "/homebest",
+          "/admin/settings",
+          "/provider/stores",
+          "/categories",
+          "/store",
+          "/posts/384",
+          "/products-v2/manage",
+          "/products/verification",
+          "/sp-calculation/completion",
+          "/tutorial",
+          "/address-manage",
+          "/mypage",
+          "/products-v2/create",
+          "/provider-join-result",
+          "/brand-v2",
+          "/homeroadshop",
+          "/products/set-product-id",
+          "/ak",
+          "/admin/seller-information",
+          "/posts/572",
+          "/products-v2",
+          "/channels",
+          "/password/reset",
+          "/posts/454",
+          "/products-v2/import-product",
+          "/homemall",
+          "/userposts",
+          "/distribution/product-jobs",
+          "/posts/701",
+          "/seller-certification",
+          "/faq",
+          "/posts/661",
+          "/calculation/completion",
+          "/sp-calculation/waiting"
+        ]
+      },
+      "google/organic": {
+        "sessions": 4662.0,
+        "users": 1088.0,
+        "pages": [
+          "/",
+          "/login",
+          "/products/new",
+          "/order/exports",
+          "/order/all",
+          "/p-posts/qna",
+          "/order/returns",
+          "/distribution/qna-emergency",
+          "/providers",
+          "/order/exchanges",
+          "/distribution/qna",
+          "/products/monitoring",
+          "/analytics/sales",
+          "/order/cancels",
+          "/distribution/promotions",
+          "/fee-information",
+          "/distribution/product-jobs",
+          "/posts/81",
+          "/distribution/policy-management",
+          "/provider-join",
+          "/order/deliveries",
+          "/deals",
+          "/market-manage",
+          "/products",
+          "/products-v2/import-product",
+          "/posts/572",
+          "/distribution/promotion/create",
+          "/service-plan/provider-plan",
+          "/userposts",
+          "/sp-calculation/completion",
+          "/managers",
+          "/posts/452",
+          "/calculation/completion",
+          "/product/create",
+          "/order/delays",
+          "/posts",
+          "/products-v2/create",
+          "/products/verification",
+          "/posts/536",
+          "/admin/settings",
+          "/order/refunds",
+          "/posts/474",
+          "/service-plan/provider-plans",
+          "/brand-v2",
+          "/service-plan/provider-plan-orders",
+          "/address-manage",
+          "/event/list",
+          "/admin/payment-method",
+          "/distribution/commission-prices",
+          "/homebest",
+          "/delivery-policy",
+          "/products-v2/manage",
+          "/calculation-history-summary",
+          "/distribution/category-mapping",
+          "/product/1029976117",
+          "/product/1158412999",
+          "/product/644573932"
+        ]
+      },
+      "google/cpc": {
+        "sessions": 3587.0,
+        "users": 1532.0,
+        "pages": [
+          "/skill-guide/one-click",
+          "/",
+          "/products/new",
+          "/provider-join",
+          "/login",
+          "/products/monitoring",
+          "/order/all",
+          "/distribution/product-jobs",
+          "/order/returns",
+          "/skill-guide/market-management",
+          "/order/cancels",
+          "/order/exports",
+          "/p-posts/qna",
+          "/analytics/product-sales",
+          "/order/exchanges",
+          "/distribution/qna",
+          "/counsel-request",
+          "/products/verification",
+          "/products",
+          "/providers",
+          "/product/create",
+          "/distribution/qna-emergency",
+          "/managers",
+          "/posts/536",
+          "/distribution/commission-prices",
+          "/distribution/commission-uploads",
+          "/skill-guide/sales-solution",
+          "/distribution/policy-management"
+        ]
+      },
+      "(not set)/(not set)": {
+        "sessions": 1752.0,
+        "users": 1122.0,
+        "pages": [
+          "/",
+          "/login",
+          "/order/all",
+          "/order/returns",
+          "/order/exports",
+          "/products/new",
+          "/distribution/qna-emergency",
+          "/p-posts/qna",
+          "/distribution/qna",
+          "/order/cancels",
+          "/order/exchanges",
+          "/skill-guide/one-click",
+          "/id-login",
+          "/order/delays",
+          "/provider-join",
+          "/products/monitoring",
+          "/products",
+          "/product/create",
+          "/sp-calculation/waiting",
+          "/order/deliveries",
+          "/posts/474",
+          "/products-v2/manage"
+        ]
+      },
+      "bflowfaq.imweb.me/referral": {
+        "sessions": 1653.0,
+        "users": 184.0,
+        "pages": [
+          "/",
+          "/login",
+          "/order/returns",
+          "/products/new",
+          "/p-posts/qna",
+          "/managers",
+          "/providers",
+          "/order/exports",
+          "/order/all",
+          "/market-manage",
+          "/order/exchanges",
+          "/analytics/sales",
+          "/distribution/product-jobs",
+          "/distribution/qna",
+          "/order/delays",
+          "/service-plan/provider-plans",
+          "/products-v2/manage",
+          "/products/verification",
+          "/service-plan/provider-plan-orders",
+          "/distribution/policy-management",
+          "/products-crawling/smartstore",
+          "/products-v2",
+          "/products-v2/import-product",
+          "/product/create",
+          "/products",
+          "/delivery-policy",
+          "/distribution/qna-emergency",
+          "/order/cancels",
+          "/channels",
+          "/products-v2/create"
+        ]
+      },
+      "payment.b-flow.io/referral": {
+        "sessions": 1497.0,
+        "users": 119.0,
+        "pages": [
+          "/",
+          "/login",
+          "/products/new",
+          "/order/exports",
+          "/providers",
+          "/managers",
+          "/order/all",
+          "/market-manage",
+          "/products/verification",
+          "/distribution/policy-management",
+          "/service-plan/provider-plans",
+          "/channels",
+          "/p-posts/qna",
+          "/products-v2/import-product",
+          "/products-v2/manage",
+          "/delivery-policy",
+          "/address-manage",
+          "/distribution/qna",
+          "/service-plan/provider-plan",
+          "/products",
+          "/sp-calculation/completion"
+        ]
+      },
+      "title/brand": {
+        "sessions": 1102.0,
+        "users": 75.0,
+        "pages": [
+          "/",
+          "/login",
+          "/order/exports",
+          "/order/all",
+          "/order/returns",
+          "/distribution/qna-emergency",
+          "/order/delays",
+          "/products/new",
+          "/order/cancels",
+          "/p-posts/qna",
+          "/order/deliveries",
+          "/distribution/qna",
+          "/products/verification",
+          "/order/exchanges",
+          "/order/confirms"
+        ]
+      },
+      "bing/organic": {
+        "sessions": 1076.0,
+        "users": 46.0,
+        "pages": [
+          "/",
+          "/login",
+          "/order/all",
+          "/order/exports",
+          "/distribution/qna-emergency",
+          "/p-posts/qna",
+          "/order/returns",
+          "/distribution/qna",
+          "/userposts",
+          "/products/set-product-id",
+          "/order/export-failed",
+          "/products-v2",
+          "/products-v2/manage",
+          "/order/exchanges",
+          "/products/option-mapping-management",
+          "/products/new",
+          "/products-v2/create",
+          "/order/deliveries"
+        ]
+      },
+      "m.search.naver.com/referral": {
+        "sessions": 931.0,
+        "users": 415.0,
+        "pages": [
+          "/login",
+          "/",
+          "/id-login",
+          "/posts/474",
+          "/order/exports",
+          "/posts/427",
+          "/order/all",
+          "/posts/520",
+          "/fee-information",
+          "/posts/454",
+          "/posts/661",
+          "/posts/701",
+          "/p-posts/qna",
+          "/posts/81",
+          "/posts/692"
+        ]
+      },
+      "bflow22218.imweb.me/referral": {
+        "sessions": 813.0,
+        "users": 118.0,
+        "pages": [
+          "/login",
+          "/order/all",
+          "/",
+          "/products/new",
+          "/order/ca/all",
+          "/providers",
+          "/distribution/policy-management",
+          "/managers",
+          "/market-manage",
+          "/products-v2/manage",
+          "/distribution/product-jobs",
+          "/p-posts/qna",
+          "/order/export-failed",
+          "/distribution/promotions",
+          "/products/market-code-management",
+          "/provider-join",
+          "/distribution/qna",
+          "/fee-information",
+          "/provider/stores",
+          "/distribution/official-information-mapping",
+          "/order/returns",
+          "/service-plan/provider-plans",
+          "/userposts"
+        ]
+      },
+      "brich.co.kr/referral": {
+        "sessions": 701.0,
+        "users": 13.0,
+        "pages": [
+          "/",
+          "/login",
+          "/id-login",
+          "/order/exports",
+          "/order/all"
+        ]
+      },
+      "ntp.msn.com/referral": {
+        "sessions": 680.0,
+        "users": 46.0,
+        "pages": [
+          "/",
+          "/login",
+          "/order/returns",
+          "/p-posts/qna",
+          "/order/exchanges",
+          "/order/exports",
+          "/distribution/qna-emergency",
+          "/order/cancels",
+          "/distribution/qna",
+          "/products-crawling/cafe24",
+          "/products/new"
+        ]
+      },
+      "conv/FBIG": {
+        "sessions": 519.0,
+        "users": 416.0,
+        "pages": [
+          "/posts/739",
+          "/provider-join",
+          "/fee-information"
+        ]
+      },
+      "blog/blog-hp_viralmarketing": {
+        "sessions": 441.0,
+        "users": 10.0,
+        "pages": [
+          "/distribution/product-jobs",
+          "/order/ca/all",
+          "/products/new",
+          "/distribution/promotions",
+          "/analytics/product-sales",
+          "/analytics/sales",
+          "/login",
+          "/products",
+          "/distribution/promotion/create",
+          "/global/order/cancels"
+        ]
+      },
+      "cpc/sa": {
+        "sessions": 353.0,
+        "users": 66.0,
+        "pages": [
+          "/login",
+          "/",
+          "/products/new",
+          "/order/all"
+        ]
+      },
+      "m.blog.naver.com/referral": {
+        "sessions": 330.0,
+        "users": 294.0,
+        "pages": [
+          "/posts/664",
+          "/posts/695",
+          "/posts/701",
+          "/login",
+          "/posts/661",
+          "/posts/427",
+          "/posts/705",
+          "/posts/70"
+        ]
+      },
+      "blog.naver.com/referral": {
+        "sessions": 292.0,
+        "users": 130.0,
+        "pages": [
+          "/login",
+          "/",
+          "/posts/695",
+          "/posts/697",
+          "/posts/701",
+          "/posts/705",
+          "/fee-information",
+          "/posts"
+        ]
+      },
+      "blog/sns": {
+        "sessions": 258.0,
+        "users": 217.0,
+        "pages": [
+          "/posts/637",
+          "/posts/537",
+          "/provider-join",
+          "/login",
+          "/posts/636",
+          "/posts/664"
+        ]
+      },
+      "stibee/email-hp_posts737_shoes": {
+        "sessions": 212.0,
+        "users": 6.0,
+        "pages": [
+          "/login",
+          "/",
+          "/order/exports",
+          "/products/new",
+          "/distribution/qna",
+          "/order/returns"
+        ]
+      }
+    },
+    "summary": {
+      "total_sources": 42,
+      "top_source": "(direct)/(none)"
+    }
+  },
+  "events": {
+    "all_events": {
+      "page_view": {
+        "total_count": 134516.0,
+        "total_users": 13903.0,
+        "pages": [
+          "/",
+          "/login",
+          "/order/all",
+          "/order/exports",
+          "/order/returns",
+          "/products/new",
+          "/distribution/qna",
+          "/distribution/qna-emergency",
+          "/p-posts/qna",
+          "/order/cancels",
+          "/skill-guide/one-click",
+          "/order/exchanges",
+          "/order/delays",
+          "/providers",
+          "/products",
+          "/product/create",
+          "/id-login",
+          "/provider-join",
+          "/order/deliveries",
+          "/products/monitoring",
+          "/market-manage",
+          "/order/ca/all",
+          "/managers",
+          "/global/order/cancels",
+          "/sp-calculation/completion",
+          "/distribution/promotions",
+          "/products/set-product-id",
+          "/posts/739",
+          "/products-v2/manage",
+          "/products/verification",
+          "/fee-information",
+          "/products-v2",
+          "/sp-calculation/waiting",
+          "/distribution/product-jobs",
+          "/order/export-failed",
+          "/distribution/policy-management",
+          "/distribution/promotion/create",
+          "/analytics/sales",
+          "/service-plan/provider-plan",
+          "/posts/474",
+          "/userposts",
+          "/global/order/exports",
+          "/products-v2/import-product",
+          "/delivery-policy",
+          "/channels",
+          "/products-v2/create",
+          "/service-plan/provider-plans",
+          "/admin/payment-method",
+          "/posts",
+          "/calculation/waiting",
+          "/calculation/completion",
+          "/products-crawling/cafe24",
+          "/products/option-mapping-management",
+          "/admin/settings",
+          "/posts/749",
+          "/products-crawling/stylewindow",
+          "/provider/stores",
+          "/address-manage",
+          "/order/hold",
+          "/posts/695",
+          "/posts/427",
+          "/search",
+          "/posts/637",
+          "/brand-v2",
+          "/admin/seller-information",
+          "/posts/537",
+          "/deals",
+          "/posts/701",
+          "/analytics/product-sales",
+          "/order/refunds",
+          "/posts/664",
+          "/homebest",
+          "/password/reset",
+          "/calculation-history-summary",
+          "/counsel-request",
+          "/global/order/returns",
+          "/products-crawling/smartstore",
+          "/store"
+        ]
+      },
+      "user_engagement": {
+        "total_count": 111137.0,
+        "total_users": 11167.0,
+        "pages": [
+          "/",
+          "/login",
+          "/order/all",
+          "/order/exports",
+          "/products/new",
+          "/order/returns",
+          "/distribution/qna",
+          "/p-posts/qna",
+          "/distribution/qna-emergency",
+          "/providers",
+          "/skill-guide/one-click",
+          "/order/cancels",
+          "/order/exchanges",
+          "/product/create",
+          "/products",
+          "/order/delays",
+          "/id-login",
+          "/products/monitoring",
+          "/market-manage",
+          "/provider-join",
+          "/order/ca/all",
+          "/managers",
+          "/order/deliveries",
+          "/sp-calculation/completion",
+          "/products/set-product-id",
+          "/products-v2/manage",
+          "/distribution/promotions",
+          "/products/verification",
+          "/distribution/product-jobs",
+          "/sp-calculation/waiting",
+          "/products-v2",
+          "/order/export-failed",
+          "/global/order/cancels",
+          "/fee-information",
+          "/distribution/policy-management",
+          "/distribution/promotion/create",
+          "/service-plan/provider-plan",
+          "/products-v2/import-product",
+          "/global/order/exports",
+          "/posts/474",
+          "/userposts",
+          "/delivery-policy",
+          "/channels",
+          "/analytics/sales",
+          "/products-v2/create",
+          "/service-plan/provider-plans",
+          "/admin/payment-method",
+          "/posts",
+          "/calculation/waiting",
+          "/calculation/completion",
+          "/products-crawling/cafe24",
+          "/admin/settings",
+          "/products/option-mapping-management",
+          "/products-crawling/stylewindow",
+          "/provider/stores",
+          "/address-manage",
+          "/order/hold",
+          "/admin/seller-information",
+          "/brand-v2",
+          "/analytics/product-sales",
+          "/posts/637",
+          "/deals",
+          "/order/refunds",
+          "/posts/427",
+          "/posts/537",
+          "/password/reset",
+          "/posts/695",
+          "/products-crawling/smartstore"
+        ]
+      },
+      "session_start": {
+        "total_count": 28369.0,
+        "total_users": 7291.0,
+        "pages": [
+          "/login",
+          "/",
+          "/skill-guide/one-click",
+          "/order/exports",
+          "/products/new",
+          "/order/returns",
+          "/order/all",
+          "/posts/739",
+          "/p-posts/qna",
+          "/posts/474",
+          "/distribution/qna",
+          "/order/exchanges",
+          "/distribution/qna-emergency",
+          "/order/cancels",
+          "/posts/749",
+          "/posts/637",
+          "/products/monitoring",
+          "/posts/427",
+          "/order/delays",
+          "/posts/695",
+          "/order/ca/all",
+          "/products",
+          "/posts/701",
+          "/posts/537",
+          "/posts/664",
+          "/products/set-product-id",
+          "/providers"
+        ]
+      },
+      "first_visit": {
+        "total_count": 4597.0,
+        "total_users": 4521.0,
+        "pages": [
+          "/login",
+          "/skill-guide/one-click",
+          "/",
+          "/posts/739",
+          "/posts/474",
+          "/posts/427",
+          "/posts/749",
+          "/posts/695",
+          "/posts/637",
+          "/posts/701"
+        ]
+      },
+      "회원가입2": {
+        "total_count": 943.0,
+        "total_users": 530.0,
+        "pages": [
+          "/provider-join"
+        ]
+      },
+      "visit_blog": {
+        "total_count": 2173.0,
+        "total_users": 1627.0,
+        "pages": [
+          "/posts/739",
+          "/posts/474",
+          "/posts",
+          "/posts/749",
+          "/posts/695",
+          "/posts/427",
+          "/posts/637",
+          "/posts/537",
+          "/posts/664",
+          "/posts/701"
+        ]
+      },
+      "2025foodoneclick_scroll25": {
+        "total_count": 316.0,
+        "total_users": 242.0,
+        "pages": [
+          "/posts/739"
+        ]
+      },
+      "click": {
+        "total_count": 412.0,
+        "total_users": 90.0,
+        "pages": [
+          "/",
+          "/login"
+        ]
+      },
+      "EXPANDER_PC_SCROLL": {
+        "total_count": 185.0,
+        "total_users": 69.0,
+        "pages": [
+          "/posts/537"
+        ]
+      },
+      "2025foodoneclick_scroll50": {
+        "total_count": 179.0,
+        "total_users": 147.0,
+        "pages": [
+          "/posts/739"
+        ]
+      },
+      "2025foodoneclick_scroll75": {
+        "total_count": 128.0,
+        "total_users": 104.0,
+        "pages": [
+          "/posts/739"
+        ]
+      }
+    },
+    "conversion_events": [
+      {
+        "event_name": "회원가입2",
+        "count": 943.0,
+        "page": "/provider-join"
+      }
+    ],
+    "top_events": {
+      "page_view": {
+        "total_count": 134516.0,
+        "total_users": 13903.0,
+        "pages": [
+          "/",
+          "/login",
+          "/order/all",
+          "/order/exports",
+          "/order/returns",
+          "/products/new",
+          "/distribution/qna",
+          "/distribution/qna-emergency",
+          "/p-posts/qna",
+          "/order/cancels",
+          "/skill-guide/one-click",
+          "/order/exchanges",
+          "/order/delays",
+          "/providers",
+          "/products",
+          "/product/create",
+          "/id-login",
+          "/provider-join",
+          "/order/deliveries",
+          "/products/monitoring",
+          "/market-manage",
+          "/order/ca/all",
+          "/managers",
+          "/global/order/cancels",
+          "/sp-calculation/completion",
+          "/distribution/promotions",
+          "/products/set-product-id",
+          "/posts/739",
+          "/products-v2/manage",
+          "/products/verification",
+          "/fee-information",
+          "/products-v2",
+          "/sp-calculation/waiting",
+          "/distribution/product-jobs",
+          "/order/export-failed",
+          "/distribution/policy-management",
+          "/distribution/promotion/create",
+          "/analytics/sales",
+          "/service-plan/provider-plan",
+          "/posts/474",
+          "/userposts",
+          "/global/order/exports",
+          "/products-v2/import-product",
+          "/delivery-policy",
+          "/channels",
+          "/products-v2/create",
+          "/service-plan/provider-plans",
+          "/admin/payment-method",
+          "/posts",
+          "/calculation/waiting",
+          "/calculation/completion",
+          "/products-crawling/cafe24",
+          "/products/option-mapping-management",
+          "/admin/settings",
+          "/posts/749",
+          "/products-crawling/stylewindow",
+          "/provider/stores",
+          "/address-manage",
+          "/order/hold",
+          "/posts/695",
+          "/posts/427",
+          "/search",
+          "/posts/637",
+          "/brand-v2",
+          "/admin/seller-information",
+          "/posts/537",
+          "/deals",
+          "/posts/701",
+          "/analytics/product-sales",
+          "/order/refunds",
+          "/posts/664",
+          "/homebest",
+          "/password/reset",
+          "/calculation-history-summary",
+          "/counsel-request",
+          "/global/order/returns",
+          "/products-crawling/smartstore",
+          "/store"
+        ]
+      },
+      "user_engagement": {
+        "total_count": 111137.0,
+        "total_users": 11167.0,
+        "pages": [
+          "/",
+          "/login",
+          "/order/all",
+          "/order/exports",
+          "/products/new",
+          "/order/returns",
+          "/distribution/qna",
+          "/p-posts/qna",
+          "/distribution/qna-emergency",
+          "/providers",
+          "/skill-guide/one-click",
+          "/order/cancels",
+          "/order/exchanges",
+          "/product/create",
+          "/products",
+          "/order/delays",
+          "/id-login",
+          "/products/monitoring",
+          "/market-manage",
+          "/provider-join",
+          "/order/ca/all",
+          "/managers",
+          "/order/deliveries",
+          "/sp-calculation/completion",
+          "/products/set-product-id",
+          "/products-v2/manage",
+          "/distribution/promotions",
+          "/products/verification",
+          "/distribution/product-jobs",
+          "/sp-calculation/waiting",
+          "/products-v2",
+          "/order/export-failed",
+          "/global/order/cancels",
+          "/fee-information",
+          "/distribution/policy-management",
+          "/distribution/promotion/create",
+          "/service-plan/provider-plan",
+          "/products-v2/import-product",
+          "/global/order/exports",
+          "/posts/474",
+          "/userposts",
+          "/delivery-policy",
+          "/channels",
+          "/analytics/sales",
+          "/products-v2/create",
+          "/service-plan/provider-plans",
+          "/admin/payment-method",
+          "/posts",
+          "/calculation/waiting",
+          "/calculation/completion",
+          "/products-crawling/cafe24",
+          "/admin/settings",
+          "/products/option-mapping-management",
+          "/products-crawling/stylewindow",
+          "/provider/stores",
+          "/address-manage",
+          "/order/hold",
+          "/admin/seller-information",
+          "/brand-v2",
+          "/analytics/product-sales",
+          "/posts/637",
+          "/deals",
+          "/order/refunds",
+          "/posts/427",
+          "/posts/537",
+          "/password/reset",
+          "/posts/695",
+          "/products-crawling/smartstore"
+        ]
+      },
+      "session_start": {
+        "total_count": 28369.0,
+        "total_users": 7291.0,
+        "pages": [
+          "/login",
+          "/",
+          "/skill-guide/one-click",
+          "/order/exports",
+          "/products/new",
+          "/order/returns",
+          "/order/all",
+          "/posts/739",
+          "/p-posts/qna",
+          "/posts/474",
+          "/distribution/qna",
+          "/order/exchanges",
+          "/distribution/qna-emergency",
+          "/order/cancels",
+          "/posts/749",
+          "/posts/637",
+          "/products/monitoring",
+          "/posts/427",
+          "/order/delays",
+          "/posts/695",
+          "/order/ca/all",
+          "/products",
+          "/posts/701",
+          "/posts/537",
+          "/posts/664",
+          "/products/set-product-id",
+          "/providers"
+        ]
+      },
+      "first_visit": {
+        "total_count": 4597.0,
+        "total_users": 4521.0,
+        "pages": [
+          "/login",
+          "/skill-guide/one-click",
+          "/",
+          "/posts/739",
+          "/posts/474",
+          "/posts/427",
+          "/posts/749",
+          "/posts/695",
+          "/posts/637",
+          "/posts/701"
+        ]
+      },
+      "visit_blog": {
+        "total_count": 2173.0,
+        "total_users": 1627.0,
+        "pages": [
+          "/posts/739",
+          "/posts/474",
+          "/posts",
+          "/posts/749",
+          "/posts/695",
+          "/posts/427",
+          "/posts/637",
+          "/posts/537",
+          "/posts/664",
+          "/posts/701"
+        ]
+      },
+      "회원가입2": {
+        "total_count": 943.0,
+        "total_users": 530.0,
+        "pages": [
+          "/provider-join"
+        ]
+      },
+      "click": {
+        "total_count": 412.0,
+        "total_users": 90.0,
+        "pages": [
+          "/",
+          "/login"
+        ]
+      },
+      "2025foodoneclick_scroll25": {
+        "total_count": 316.0,
+        "total_users": 242.0,
+        "pages": [
+          "/posts/739"
+        ]
+      },
+      "EXPANDER_PC_SCROLL": {
+        "total_count": 185.0,
+        "total_users": 69.0,
+        "pages": [
+          "/posts/537"
+        ]
+      },
+      "2025foodoneclick_scroll50": {
+        "total_count": 179.0,
+        "total_users": 147.0,
+        "pages": [
+          "/posts/739"
+        ]
+      }
+    }
+  },
+  "user_journey": {
+    "top_entry_points": [
+      {
+        "landingPage": "/login",
+        "sessions": 13051.0,
+        "bounceRate": 0.1765381963067964,
+        "engagementRate": 0.8234618036932035
+      },
+      {
+        "landingPage": "/",
+        "sessions": 6552.0,
+        "bounceRate": 0.3353174603174603,
+        "engagementRate": 0.6646825396825397
+      },
+      {
+        "landingPage": "(not set)",
+        "sessions": 2889.0,
+        "bounceRate": 0.9768085842852198,
+        "engagementRate": 0.0231914157147802
+      },
+      {
+        "landingPage": "/skill-guide/one-click",
+        "sessions": 1748.0,
+        "bounceRate": 0.5983981693363845,
+        "engagementRate": 0.40160183066361554
+      },
+      {
+        "landingPage": "/products/new",
+        "sessions": 656.0,
+        "bounceRate": 0.3353658536585366,
+        "engagementRate": 0.6646341463414634
+      },
+      {
+        "landingPage": "/order/all",
+        "sessions": 575.0,
+        "bounceRate": 0.23130434782608697,
+        "engagementRate": 0.768695652173913
+      },
+      {
+        "landingPage": "",
+        "sessions": 533.0,
+        "bounceRate": 0.9831144465290806,
+        "engagementRate": 0.016885553470919325
+      },
+      {
+        "landingPage": "/order/exports",
+        "sessions": 484.0,
+        "bounceRate": 0.359504132231405,
+        "engagementRate": 0.640495867768595
+      },
+      {
+        "landingPage": "/posts/739",
+        "sessions": 451.0,
+        "bounceRate": 0.30155210643015523,
+        "engagementRate": 0.6984478935698448
+      },
+      {
+        "landingPage": "/order/returns",
+        "sessions": 435.0,
+        "bounceRate": 0.2896551724137931,
+        "engagementRate": 0.7103448275862069
+      }
+    ],
+    "high_bounce_pages": [],
+    "best_engagement_pages": [
+      {
+        "landingPage": "/posts/606",
+        "sessions": 16.0,
+        "bounceRate": 0.0,
+        "engagementRate": 1.0
+      },
+      {
+        "landingPage": "/provider-join",
+        "sessions": 99.0,
+        "bounceRate": 0.04040404040404041,
+        "engagementRate": 0.9595959595959596
+      },
+      {
+        "landingPage": "/distribution/promotions",
+        "sessions": 42.0,
+        "bounceRate": 0.047619047619047616,
+        "engagementRate": 0.9523809523809523
+      },
+      {
+        "landingPage": "/userposts",
+        "sessions": 52.0,
+        "bounceRate": 0.057692307692307696,
+        "engagementRate": 0.9423076923076923
+      },
+      {
+        "landingPage": "/global/order/cancels",
+        "sessions": 54.0,
+        "bounceRate": 0.07407407407407407,
+        "engagementRate": 0.9259259259259259
+      },
+      {
+        "landingPage": "/ak",
+        "sessions": 36.0,
+        "bounceRate": 0.08333333333333333,
+        "engagementRate": 0.9166666666666666
+      },
+      {
+        "landingPage": "/product/886627569",
+        "sessions": 12.0,
+        "bounceRate": 0.08333333333333333,
+        "engagementRate": 0.9166666666666666
+      },
+      {
+        "landingPage": "/service-plan/provider-plan-orders",
+        "sessions": 12.0,
+        "bounceRate": 0.08333333333333333,
+        "engagementRate": 0.9166666666666666
+      },
+      {
+        "landingPage": "/admin/payment-method",
+        "sessions": 21.0,
+        "bounceRate": 0.09523809523809523,
+        "engagementRate": 0.9047619047619048
+      },
+      {
+        "landingPage": "/products-v2",
+        "sessions": 21.0,
+        "bounceRate": 0.09523809523809523,
+        "engagementRate": 0.9047619047619048
+      }
+    ]
+  },
+  "business_insights": {
+    "business_type": "B2B_distribution_platform",
+    "key_functions": {
+      "primary_functions": [
+        "homepage",
+        "authentication",
+        "order_management",
+        "product_management",
+        "distribution",
+        "support",
+        "other",
+        "content"
+      ],
+      "key_events": [
+        "user_engagement",
+        "session_start",
+        "2025foodoneclick_scroll75",
+        "page_view",
+        "EXPANDER_PC_SCROLL",
+        "click",
+        "2025foodoneclick_scroll50",
+        "2025foodoneclick_scroll25",
+        "회원가입2",
+        "first_visit"
+      ],
+      "most_used_section": "homepage"
+    },
+    "user_behavior_patterns": {
+      "primary_traffic_source": "direct",
+      "avg_bounce_rate": 0.3559877819957567,
+      "engagement_pattern": "moderate"
+    },
+    "conversion_opportunities": {
+      "has_signup_tracking": true,
+      "conversion_events_count": 1,
+      "conversion_pages": [
+        "/provider-join"
+      ]
+    },
+    "optimization_suggestions": {
+      "high_traffic_pages_count": 41,
+      "high_bounce_pages_count": 0,
+      "optimization_priority": "traffic_conversion"
+    }
+  }
+}
